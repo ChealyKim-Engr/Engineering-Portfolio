@@ -10,3 +10,5 @@ https://www.youtube.com/watch?app=desktop&v=e0dxrGOGR4c&t=483s
 https://drive.google.com/file/d/1UGjc_aACZLHmnbcP7u7_3vsWSSOOd89l/view?usp=sharing
 
 https://www.youtube.com/watch?v=VVtr0a4FmV0&list=PLWB9IGreRgxyr_xbJwedF16atCr6rWCUh&index=2  
+
+https://www.linkedin.com/in/julie-kim-b32b5888/
