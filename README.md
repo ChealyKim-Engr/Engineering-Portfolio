@@ -14,4 +14,5 @@ https://www.youtube.com/watch?v=VVtr0a4FmV0&list=PLWB9IGreRgxyr_xbJwedF16atCr6rW
 https://www.linkedin.com/in/julie-kim-b32b5888/
 
 Machine Learning Cancer Data Set ANN, SVM, classification
+
 https://csulb-my.sharepoint.com/:v:/g/personal/julie_kim_student_csulb_edu/EZYMVNbg7oVBsPHC-5wmIO4BqdRXRkNsWTVwEDWI1GPtRw?e=m8oFLG
