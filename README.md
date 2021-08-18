@@ -12,7 +12,9 @@ o	Non-Pipelined CPU, the processor was an integer 32-bit architecture with a Bar
 https://www.youtube.com/watch?app=desktop&v=e0dxrGOGR4c&t=483s  
 
 o	Pipelined CPU, functional units of MIPS processor built as 5-stage pipeline with hazard detection and forwarding unit to speed up the performance by more than 4x.
+
 https://drive.google.com/file/d/1UGjc_aACZLHmnbcP7u7_3vsWSSOOd89l/view?usp=sharing
+
 
 •	FPGA embedded system, ADC and VGA custom IP coded in Verilog, implemented on Xilinx Zybo board, run synthesis and implementation, and generated bit stream using Vivado tool. 
 https://www.youtube.com/watch?v=VVtr0a4FmV0&list=PLWB9IGreRgxyr_xbJwedF16atCr6rWCUh&index=2  
